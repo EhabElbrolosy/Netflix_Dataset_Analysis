@@ -7,7 +7,9 @@ The final deliverable is an interactive dashboard that allows users to explore t
 Key features
 
 •	Data cleaning and transformation.
+
 •	Interactive dashboard using Power BI.
+
 •	Extract important insights about popular genres, release years, and ratings distributions.
 
 Dataset used
