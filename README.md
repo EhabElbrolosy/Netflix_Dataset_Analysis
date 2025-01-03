@@ -12,7 +12,9 @@ Key features
 
 •	Extract important insights about popular genres, release years, and ratings distributions.
 
+
 Dataset used
+
 The dataset used in this project is the “Netflix Movies and TV Shows” dataset available on Kaggle.
 Dataset link: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
 
