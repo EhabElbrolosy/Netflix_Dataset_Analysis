@@ -23,6 +23,7 @@ Questions (KPIs)
 7.	What are the percentage of movies rates?
 
 Tools used 
+
 •	Excel for data cleaning using functions and power query
 •	Power BI for Visualization 
 •	Adobe Photoshop for creating the background image
