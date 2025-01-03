@@ -4,6 +4,7 @@ By leveraging data transformation techniques and interactive visualizations, the
 The final deliverable is an interactive dashboard that allows users to explore these insights through dynamic filtering and visualization.
 
 Key features
+
 •	Data cleaning and transformation.
 •	Interactive dashboard using Power BI.
 •	Extract important insights about popular genres, release years, and ratings distributions.
@@ -19,7 +20,12 @@ Questions (KPIs)
 4.	Compare the count of movies to count of TV shows as a percentage.
 5.	Calculate the count of titles, countries and categories listed in the dataset.
 6.	Classify the categories according to their average duration.
-7.	What are the percentage of movies rates? 
+7.	What are the percentage of movies rates?
+
+Tools used 
+•	Excel for data cleaning using functions and power query
+•	Power BI for Visualization 
+•	Adobe Photoshop for creating the background image
 
 Explore the interactive dashboard on power bi services:
  https://app.powerbi.com/groups/me/reports/80f576af-6dba-40ea-92f2-9c66a1612abf/8a86578e114ea13873a3?experience=power-bi
