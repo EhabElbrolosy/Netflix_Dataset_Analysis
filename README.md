@@ -1,4 +1,5 @@
-Project objective 
+Project objective
+
 The aim of this project is to explore and analyze the Netflix Movies and TV Shows dataset using Power BI to uncover patterns and insights.
 By leveraging data transformation techniques and interactive visualizations, the project highlights key trends such as genre preferences, ratings analysis, and the evolution of content over time.
 The final deliverable is an interactive dashboard that allows users to explore these insights through dynamic filtering and visualization.
