@@ -34,8 +34,11 @@ Questions (KPIs)
 Tools used 
 
 •	Excel for data cleaning using functions and power query
+
 •	Power BI for Visualization 
+
 •	Adobe Photoshop for creating the background image
+
 
 -----
 Explore the interactive dashboard on power bi services:
