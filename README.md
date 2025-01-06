@@ -1,6 +1,5 @@
------
+
 Project objective
------
 
 The aim of this project is to explore and analyze the Netflix Movies and TV Shows dataset using Power BI to uncover patterns and insights.
 By leveraging data transformation techniques and interactive visualizations, the project highlights key trends such as genre preferences, ratings analysis, and the evolution of content over time.
@@ -8,8 +7,6 @@ The final deliverable is an interactive dashboard that allows users to explore t
 
 -----
 Key features
------
------
 
 •	Data cleaning and transformation.
 
@@ -19,11 +16,10 @@ Key features
 
 -----
 Dataset used
------
------
 
 The dataset used in this project is the “Netflix Movies and TV Shows” dataset available on Kaggle.
 Dataset link: https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download
+
 -----
 Questions (KPIs)
 1.	List top 10 producing countries.
@@ -33,13 +29,14 @@ Questions (KPIs)
 5.	Calculate the count of titles, countries and categories listed in the dataset.
 6.	Classify the categories according to their average duration.
 7.	What are the percentage of movies rates?
+   
 -----
 Tools used 
------
------
+
 •	Excel for data cleaning using functions and power query
 •	Power BI for Visualization 
 •	Adobe Photoshop for creating the background image
+
 -----
 Explore the interactive dashboard on power bi services:
  https://app.powerbi.com/groups/me/reports/80f576af-6dba-40ea-92f2-9c66a1612abf/8a86578e114ea13873a3?experience=power-bi
