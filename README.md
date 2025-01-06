@@ -1,4 +1,5 @@
------Project objective
+-----
+Project objective
 -----
 
 The aim of this project is to explore and analyze the Netflix Movies and TV Shows dataset using Power BI to uncover patterns and insights.
